@@ -1,8 +1,0 @@
-{
-    "functions": {
-      "api/index.ts": {
-        "runtime": "experimental-edge"
-      }
-    }
-  }
-  
